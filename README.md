@@ -19,11 +19,13 @@ How to edit a Map file .kni
 -------------------------------------------------------------------
 A map file is organised as follows :
 
+```
 mapheight = XX   	// The height of the map in number of tile
 mapwidth = XX		// The width of the map in number of tile
 tileheight = XX		// The height of a tile
 tilewidth = XX		// The width of a tile
 nblayer = XX			// The number of layer
+
 
 // For every layer, 1 line contains the name of the layer, and the 
 // others contain the ID of the tile corresponding, placed as on 
@@ -50,11 +52,13 @@ blocked = true
 002 003
 
 An example is available in "android/assets/data/maps"
+```
 
-Level file .kni
+How to edit a Level file .kni
 -------------------------------------------------------------------
 Several parameters can be defined for the level :
 
+```
 name_level // The name of the level
 intro_msg // The introduction message, printed with the class MessageBox
 end_msg 	// The message of the end, in case of success of the level
@@ -62,13 +66,13 @@ dead_msg 	// The message in case of death of the player
 current_map = // The path of the map file
 zones = // Define a specific region in the map -- Useless
 ennemis  	// Defines the enemies present in the map, is written "x-y"
-			// with x = the race of the monster : 1 - Statue
-			//										2 - Bird
-			// y = the number of enemies of the specified race
+		// with x = the race of the monster : 	1 - Statue
+		//					2 - Bird
+		// y = the number of enemies of the specified race
 
 			
 An example is available in android/assets/data/maps
-
+```
 
 Media resources
 -------------------------------------------------------------------
