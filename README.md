@@ -69,10 +69,10 @@ ennemis  	// Defines the enemies present in the map, is written "x-y"
 		// with x = the race of the monster : 	1 - Statue
 		//					2 - Bird
 		// y = the number of enemies of the specified race
-
+```
 			
 An example is available in android/assets/data/maps
-```
+
 
 Media resources
 -------------------------------------------------------------------
