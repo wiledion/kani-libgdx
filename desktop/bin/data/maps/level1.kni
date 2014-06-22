@@ -1,0 +1,29 @@
+﻿
+name_level = 'Niveau 1'
+
+intro_msg =
+Ici,
+il n'y a qu'une seule regle.
+
+S U R V I V R E .
+_end
+
+end_msg =
+Tel est le prix a payer pour la survie.
+_end
+
+dead_msg =
+Seuls les vaillants vaincrons.
+_end
+
+current_map = 'data/maps/level1.tmx'
+
+zones =
+_end
+	
+ennemis  =
+1-10
+2-5
+_end
+
+_endfinal =

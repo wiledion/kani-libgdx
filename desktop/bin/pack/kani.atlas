@@ -1,0 +1,143 @@
+
+kani.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+menu
+  rotate: false
+  xy: 1, 421
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+java
+  rotate: false
+  xy: 1, 19
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+hero1
+  rotate: false
+  xy: 603, 83
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+statue2
+  rotate: false
+  xy: 603, 1
+  size: 337, 80
+  orig: 337, 80
+  offset: 0, 0
+  index: -1
+hero3
+  rotate: false
+  xy: 803, 853
+  size: 160, 168
+  orig: 160, 168
+  offset: 0, 0
+  index: -1
+bttplay1
+  rotate: false
+  xy: 803, 701
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bttplay2
+  rotate: false
+  xy: 803, 549
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+statue1
+  rotate: false
+  xy: 803, 467
+  size: 182, 80
+  orig: 182, 80
+  offset: 0, 0
+  index: -1
+bird1
+  rotate: false
+  xy: 803, 421
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 839, 421
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+menupatt
+  rotate: false
+  xy: 941, 385
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+minilogo
+  rotate: false
+  xy: 941, 316
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+arc
+  rotate: false
+  xy: 965, 989
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 1010, 370
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+
+kani2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wiledion
+  rotate: false
+  xy: 1, 305
+  size: 463, 162
+  orig: 463, 162
+  offset: 0, 0
+  index: -1
+hero2
+  rotate: false
+  xy: 1, 119
+  size: 272, 184
+  orig: 272, 184
+  offset: 0, 0
+  index: -1
+libgdx
+  rotate: false
+  xy: 1, 67
+  size: 300, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+bttquit1
+  rotate: false
+  xy: 275, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bttquit2
+  rotate: false
+  xy: 303, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
